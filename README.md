@@ -2,11 +2,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome!+😎+to+my+profile+💐🌹;+I'm+S+M+Najmul+Hossain;Thank+You+Everyone;Love+You+All)
 
 <div>
-<a href="https://github.com/smnajmulhossain02/"> <img src="https://repository-images.githubusercontent.com/875533894/1ac36df3-0122-43aa-b9ab-97582749f76a" alt="ToxicNoob" height="100%" width="185" align="left"></a>
+<a href="https://github.com/smnajmulhossain02"> <img src="https://repository-images.githubusercontent.com/875533894/1ac36df3-0122-43aa-b9ab-97582749f76a" alt="ToxicNoob" height="100%" width="185" align="left"></a>
 <br>
 <a href="https://facebook.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Najmul" height="30" width="40"></a>
 <a href="https://youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Najmul" height="35" width="40" /></a>
-<a href="https://t.me/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Najmmul" height="35" width="35" /></a>
+<a href="https://t.me/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Najmul" height="35" width="35" /></a>
 
 
 </div>
@@ -41,7 +41,7 @@
 
 <a href="mailto:smnajmulhossain6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-smnajmulhossain6@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
-## Tools From CYBER SH
-<a href="https://github.com/smnajmulhossain02/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smnajmulhossain02&repo=cybersh&theme=dark" height="100" width="300"></a>
-<a href="https://github.com/smnajmulhossain02/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smnajmulhossain02&repo=SH-Encryptor&theme=dark" height="100" width="300"></a>
+## Tools From S M Najmul Hossain
+<a href="https://github.com/smnajmulhossain02/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smnajmulhossain02&repo=smnajmulhossain02&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/smnajmulhossain02/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasirahmedsuvo&repo=Online-Grocery-Shopping&theme=dark" height="100" width="300"></a>
 
