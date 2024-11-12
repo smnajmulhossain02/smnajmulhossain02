@@ -45,8 +45,3 @@
 <a href="https://github.com/smnajmulhossain02/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smnajmulhossain02&repo=cybersh&theme=dark" height="100" width="300"></a>
 <a href="https://github.com/smnajmulhossain02/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smnajmulhossain02&repo=SH-Encryptor&theme=dark" height="100" width="300"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smnajmulhossain02/smnajmulhossain02/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smnajmulhossain02/smnajmulhossain02/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/smnajmulhossain02/smnajmulhossain02/output/github-snake.svg" />
-</picture>
