@@ -1,3 +1,5 @@
+<h2 align="center"> Hi there 👋 I'm Shuvo Halder, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome!+😎+to+my+profile+💐🌹;+I'm+S+M+Najmul+Hossain;Thank+You+Everyone;Love+You+All)
 
