@@ -27,7 +27,7 @@
 <a href="mailto:smnajmulhossain6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-smnajmulhossain6@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 </div>
-
+<!--
 <div>
   <p>
   <strong>Languages:</strong><br><br>
@@ -81,7 +81,7 @@
 </p>
 
 </div>
-
+-->
 <div>
 <p align="center">
   <a href="https://github.com/smnajmulhossain02">
